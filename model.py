@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-import numpy as np
+
 
 # (kernel, filter, stride, padding)
 architecture_config = [
