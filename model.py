@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 
-
+#2023.01.26
 # (kernel, filter, stride, padding)
 architecture_config = [
      (7, 64, 2, 3),
